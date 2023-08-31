@@ -29,3 +29,23 @@ dvc repro
 ```
 dvc dag
 ```
+
+```
+dvc add <file name/>
+```
+
+```
+git add <file name> && git commit -m "Updated"
+```
+
+```
+dvc remote add myremote <any remote location>
+```
+
+```
+dvc push
+```
+
+```
+https://dvc.org/doc
+```
